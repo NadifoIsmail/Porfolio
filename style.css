@@ -1,0 +1,110 @@
+*{ margin: 0;
+    padding: 0%;
+    box-sizing:border-box;
+}
+body{
+    background-color:bisque;
+}
+#nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 25;
+}
+#nav a{
+    color: black;
+    text-decoration: none;
+    background-color:cornsilk;
+    font-size: larger;
+    padding: 10px;
+}
+#nav a:hover{
+text-decoration: underline;
+}
+#nav h4{
+    font-size: larger;
+}
+#nav div i{
+    font-size: xx-large;
+    padding: 10px;
+    border-radius: 10px;
+}
+#intro{
+    width:90vw;
+    display: grid;
+    grid-template-columns: auto auto;
+    height:100vh;
+    justify-content: space-around;
+    align-items:center;
+    margin: auto;
+
+}
+#intro div{
+    width:45vw;
+}
+#intro.image{
+    text-align: center;
+    border-radius: 15px;
+}
+.image img{
+ height: 250px;
+}
+#intro p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size:larger;
+}
+#intro h5{
+    font-size :20px;
+    font-style: italic;
+}
+.intro-text p{
+ font-style: italic;
+}
+#about{
+    margin-left:40px;
+    margin-bottom:10px;
+    font-size: larger;
+}
+#about h5{
+    font-size: 18px;
+    font-style: italic;
+}
+#skills{
+    margin-left:40px;
+    margin-bottom:10px ;
+    font-size: larger;
+}
+#skills h5{
+    font-size:18px;
+    font-style: italic;
+}
+#projects{
+    margin-left:40px;
+    margin-bottom:10px ;
+    font-size: larger;
+}
+#projects h5{
+    font-size: 18px;
+    font-style: italic;
+}
+.form{
+    display:flex;
+    flex-direction: column;
+    width: 300px;
+}
+#contact{
+    margin-left:40px;
+    margin-bottom:10px ;
+}
+#contact h5{
+    font-size :18px;
+    font-style: italic;
+}
+.footer{
+    background-color:cornsilk;
+    color:black;
+    padding: 20px;;
+    text-align:center;
+    width: 100vw;
+}
