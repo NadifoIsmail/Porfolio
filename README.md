@@ -12,7 +12,7 @@ The application includes an introduction page showing what I do, my educational 
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio](Github.com/NadifoIsmail/Portfolio)
+* You can view the web live on [Portfolio]
 
 ## Known Bugs
 The application works perfectly well, with no bugs.
