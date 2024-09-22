@@ -2,7 +2,7 @@
 #### The app is my Portfolio, 22/09/2024
 #### **By Nadifo Ismail**
 ## Description
-The application includes an introduction page showing what I do, my educational background, some of my projects and their links to my GitHub,my technical and non-technical skills, and my contact information.
+The application includes an introduction page showing what I do, my educational background, some of my projects and their links to my GitHub, my technical and non-technical skills, and my contact information.
 
 ## Setup/Installation Instruction
 * Download a zip in the code button to the desired folder
@@ -12,7 +12,7 @@ The application includes an introduction page showing what I do, my educational 
 * And you are all done
 
 ## Live server
-* You can view the web live on [Portfolio]
+* You can view the web live on [Portfolio](https://nadifoismail.github.io/Porfolio)
 
 ## Known Bugs
 The application works perfectly well, with no bugs.
